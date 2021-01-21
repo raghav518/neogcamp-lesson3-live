@@ -65,7 +65,7 @@ hr{
 /**lists**/
 
 .list-non-bullet{
-    list-style: none;
+    list-style: decimal;
     padding-inline-start: 0px;
 }
 .list-item-inline{
@@ -96,7 +96,7 @@ hr{
 
 /**header**/
 .hero{
-    padding: 1rem;
+    padding: 2rem;
 
 }
 .hero .hero-img{
