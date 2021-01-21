@@ -28,7 +28,7 @@ hr{
 
 .container{
     
-    padding: 0rem 1rem;
+    padding: 1rem 1rem;
 
 }
 .container-center{
@@ -96,8 +96,7 @@ hr{
 
 /**header**/
 .hero{
-    padding: 2rem;
-    padding-top: 4rem;
+    padding: 1rem;
 
 }
 .hero .hero-img{
